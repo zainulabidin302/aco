@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <cstdlib>
-
+#include <stdio.h>
 #include <cmath>
 #include <limits>
 #include <climits>
